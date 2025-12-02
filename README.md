@@ -44,9 +44,4 @@ The dashboard is built using a standard Super Store dataset with fields such as:
 - Ship Mode  
 - Payment Mode  
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone <your-repository-url>
-   cd <repo-folder>
